@@ -10,7 +10,7 @@
 # 这个系统是如何工作的
 
 # 在您的 HLMod 使用
-
+[Demo source](https://github.com/anchurcn/HL1RagdollMod)
 ## 一、安装模块
 1. [下载](https://github.com/anchurcn/GoldsrcPhysics/releases)并解压 gsphysics。里面含有SDK以及依赖库。
 2. 将 gsphysics文件夹放到半条命的根目录下，和 hl.exe 同级。
